@@ -1,5 +1,5 @@
 {
-  "name": "DUDU",
+  "name": "BOTDUDU",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "DUDU",
+  "author": "LUCIFER MODS",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bruxinhok/bruxv1.git"
+    "url": "git+https://github.com/RichardKAFA/BOTDUDU.git"
   },
   "bugs": {
-    "url": "https://github.com/bruxinhok/bruxv1/issues"
+    "url": "https://github.com/RichardKAFA/BOTDUDU/issues"
   },
-  "homepage": "https://github.com/bruxinhok/bruxv1#readme"
+  "homepage": "https://github.com/RichardKAFA/BOTDUDU#readme"
 }
